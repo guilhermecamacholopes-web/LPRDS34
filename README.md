@@ -4,4 +4,8 @@ Nesse projeto contêm todos os códigos produzidos por mim na aula de Linguagem 
 
 ## Aula 2 LPR
 
-Nessa pasta contêm codigos de nivel inciante em c++ e c#
+Nessa pasta contêm códigos de nivel inciante em c++ e c#.
+
+## Aula 3 LPR
+
+Nessa pasta contêm o primeiro commit feito por mim, na qual.
