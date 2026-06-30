@@ -12,11 +12,12 @@ Nessa aula fiz o meu primeiro commit, na qual o codigo commitado ja estava pront
 
 ## Aula 4 LPR
 
-Nessa aula fiz o meu primeiro commit, na qual o codigo commitado ja estava pronto. O intuito dessa aula foi aprender como funciona o github.
+Nessa aula fiz códigos em c++ e c# com estruturas de selecao como if, else e elseif. O intuito dessa aula foi como podemos utlizar as estruturas de selcao nos codigos.
 
 ## Aula 5 LPR
 
-Nessa aula fiz o meu primeiro commit, na qual o codigo commitado ja estava pronto. O intuito dessa aula foi aprender como funciona o github.
+Nessa aula fiz códigos em c++ e c# com estruturas de selecao como if, else e elseif. O intuito dessa aula foi como podemos utlizar as estruturas de selcao nos codigos.
+
 
 ## Aula 6 LPR
 
