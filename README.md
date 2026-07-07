@@ -12,25 +12,24 @@ Nessa aula fiz o meu primeiro commit, na qual o codigo commitado ja estava pront
 
 ## Aula 4 LPR
 
-Nessa aula fiz códigos em c++ e c# com estruturas de selecao como if, else e elseif. O intuito dessa aula foi como podemos utlizar as estruturas de selcao nos codigos.
+Nessa aula fiz códigos em c++ e c# com estruturas de selecao como if, else e else if. O intuito dessa aula foi como podemos utlizar as estruturas de selcao nos codigos.
 
 ## Aula 5 LPR
 
-Nessa aula fiz códigos em c++ e c# com estruturas de selecao como if, else e elseif. O intuito dessa aula foi como podemos utlizar as estruturas de selcao nos codigos.
-
+Nessa aula fiz códigos em c++ e c# com estruturas de repeticao como while, while do e for. O intuito dessa aula foi como podemos utlizar as estruturas de repeticao nos codigos.
 
 ## Aula 6 LPR
 
-Nessa aula fiz o meu primeiro commit, na qual o codigo commitado ja estava pronto. O intuito dessa aula foi aprender como funciona o github.
+Nessa aula fiz códigos em c++ e c# com estruturas de repeticao como while, while do e for. O intuito dessa aula foi como podemos utlizar as estruturas de repeticao nos codigos.
 
 ## Aula 7 LPR
 
-Nessa aula fiz o meu primeiro commit, na qual o codigo commitado ja estava pronto. O intuito dessa aula foi aprender como funciona o github.
+Nessa aula fiz códigos em c++ e c# com estruturas de repeticao como while, while do e for. O intuito dessa aula foi como podemos utlizar as estruturas de repeticao nos codigos.
 
 ## Aula 8 LPR
 
-Nessa aula fiz o meu primeiro commit, na qual o codigo commitado ja estava pronto. O intuito dessa aula foi aprender como funciona o github.
+Nessa aula fiz códigos em c++ e c# com estruturas de repeticao como while, while do e for. O intuito dessa aula foi como podemos utlizar as estruturas de repeticao nos codigos.
 
 ## Aula 9 LPR
 
-Nessa aula fiz o meu primeiro commit, na qual o codigo commitado ja estava pronto. O intuito dessa aula foi aprender como funciona o github.
+Nessa aula fiz códigos em c++ e c# com estruturas de repeticao como while, while do e for. O intuito dessa aula foi como podemos utlizar as estruturas de repeticao nos codigos.
