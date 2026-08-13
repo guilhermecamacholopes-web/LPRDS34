@@ -1,8 +1,10 @@
-<div style="background-image: url('https://freepik.com'); background-size: cover; background-position: center; padding: 35px; border-radius: 12px; color: #2d3748;">
+<p align="center">
+  <img src="'https://unsplash.com'" width="100%" alt="Banner Minimalista">
+</p>
 
   # 🖥️  LPR DS 34
 
-</div>
+
 
 Nesse projeto contêm todos os códigos produzidos por mim na aula de Linguagem de Programação, do terceiro ano técnico do curso de desenvolvimento de sistemas da ETEFMC.
 
