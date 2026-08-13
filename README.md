@@ -1,41 +1,63 @@
-<p align="center">
-  <img src="'https://unsplash.com'" width="100%" alt="Banner Minimalista">
-</p>
+<p align="center"> <img src="https://unsplash.com" width="100%" alt="Banner Minimalista"> </p>
 
-  # 🖥️  LPR DS 34
+🖥️ LPR DS 34
 
+Neste projeto estão todos os códigos produzidos por mim durante as aulas de Linguagem de Programação (LPR), no terceiro ano técnico do curso de Desenvolvimento de Sistemas da ETEFMC.
 
+📚 Aulas de LPR
+Aula 2 — LPR
 
-Nesse projeto contêm todos os códigos produzidos por mim na aula de Linguagem de Programação, do terceiro ano técnico do curso de desenvolvimento de sistemas da ETEFMC.
+Nesta aula desenvolvi códigos de nível iniciante em C++ e C#. Esses códigos foram feitos com o intuito de me familiarizar com essas linguagens de programação.
 
-## Aula 2 LPR
+Aula 3 — LPR
 
-Nessa aula fiz códigos de nivel inciante em c++ e c#, esses codigos foram feitos com o intuito de me habituar com essas linguagens de progamacao.
+Nesta aula fiz meu primeiro commit, no qual o código enviado já estava pronto. O objetivo da aula foi aprender como funciona o GitHub e como realizar commits e enviar arquivos para um repositório.
 
-## Aula 3 LPR
+Aula 4 — LPR
 
-Nessa aula fiz o meu primeiro commit, na qual o codigo commitado ja estava pronto. O intuito dessa aula foi aprender como funciona o github.
+Nesta aula desenvolvi códigos em C++ e C# utilizando estruturas de seleção, como if, else e else if.
 
-## Aula 4 LPR
+O objetivo foi aprender como utilizar estruturas de seleção para fazer o programa tomar diferentes decisões de acordo com determinadas condições.
 
-Nessa aula fiz códigos em c++ e c# com estruturas de selecao como if, else e else if. O intuito dessa aula foi como podemos utlizar as estruturas de selcao nos codigos.
+Aula 5 — LPR
 
-## Aula 5 LPR
+Nesta aula desenvolvi códigos em C++ e C# utilizando estruturas de repetição, como while, do while e for.
 
-Nessa aula fiz códigos em c++ e c# com estruturas de repeticao como while, while do e for. O intuito dessa aula foi como podemos utlizar as estruturas de repeticao nos codigos.
+O objetivo foi aprender como repetir determinadas instruções enquanto uma condição for verdadeira.
 
-## Aula 6 LPR
+Aula 6 — LPR
 
-Nessa aula fiz códigos em c++ e c# com estruturas de repeticao como while, while do e for. O intuito dessa aula foi como podemos utlizar as estruturas de repeticao nos codigos.
+Nesta aula continuei desenvolvendo códigos em C++ e C#, utilizando estruturas de repetição como while, do while e for.
 
-## Aula 7 LPR
+O objetivo foi praticar e aprofundar o uso das estruturas de repetição na programação.
 
-Nessa aula fiz códigos em c++ e c# com estruturas de repeticao como while, while do e for. O intuito dessa aula foi como podemos utlizar as estruturas de repeticao nos codigos.
+Aula 7 — LPR
 
-## Aula 8 LPR
+Nesta aula continuei praticando C++ e C#, utilizando estruturas de repetição e diferentes formas de controlar a execução dos códigos.
 
-Nessa aula fiz códigos em c++ e c# com estruturas de repeticao como while, while do e for. O intuito dessa aula foi como podemos utlizar as estruturas de repeticao nos codigos.
+O objetivo foi desenvolver minha lógica de programação e melhorar a utilização das estruturas aprendidas anteriormente.
 
-## Aula 9 LPR
+Aula 8 — LPR
 
-Nessa aula fiz códigos em c++ e c# com estruturas de repeticao como while, while do e for. O intuito dessa aula foi como podemos utlizar as estruturas de repeticao nos codigos.
+Nesta aula desenvolvi novos exercícios em C++ e C#, colocando em prática os conceitos de estruturas de repetição e lógica de programação.
+
+O objetivo foi reforçar os conhecimentos adquiridos nas aulas anteriores por meio de exercícios práticos.
+
+Aula 9 — LPR
+
+Nesta aula continuei desenvolvendo exercícios em C++ e C#, utilizando estruturas de repetição e conceitos de lógica de programação.
+
+O objetivo foi praticar os conteúdos estudados e aprimorar minha capacidade de desenvolver soluções utilizando essas linguagens.
+
+🛠️ Tecnologias utilizadas
+💻 C++
+💻 C#
+🔧 Git
+🐙 GitHub
+🎓 Curso
+
+Técnico em Desenvolvimento de Sistemas — ETEFMC
+
+Disciplina: Linguagem de Programação (LPR)
+
+Turma: DS 34
