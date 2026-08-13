@@ -1,6 +1,6 @@
-<div style="background-image: url('URL_DA_SUA_IMAGEM'); background-size: cover; padding: 20px; border-radius: 10px;">
+<div style="background-image: url('https://freepik.com'); background-size: cover; background-position: center; padding: 35px; border-radius: 12px; color: #2d3748;">
 
-  # LPR DS 34
+  # 🖥️  LPR DS 34
 
 </div>
 
