@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="./img/banner.png" width="100%" alt="Banner LPR DS 34">
-</p>
 
 <h1 align="center">🖥️ LPR DS 34</h1>
-# 🖥️ LPR DS 34
+
 
 Neste projeto estão todos os códigos produzidos por mim durante as aulas de **Linguagem de Programação (LPR)**, no terceiro ano técnico do curso de **Desenvolvimento de Sistemas da ETEFMC**.
 
