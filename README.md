@@ -1,4 +1,8 @@
-# LPR DS 34
+<div style="background-image: url('URL_DA_SUA_IMAGEM'); background-size: cover; padding: 20px; border-radius: 10px;">
+
+  # LPR DS 34
+
+</div>
 
 Nesse projeto contêm todos os códigos produzidos por mim na aula de Linguagem de Programação, do terceiro ano técnico do curso de desenvolvimento de sistemas da ETEFMC.
 
