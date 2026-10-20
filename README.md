@@ -50,6 +50,12 @@ Nesta aula continuei desenvolvendo exercícios em **C++ e C#**, utilizando estru
 
 O objetivo foi praticar os conteúdos estudados e aprimorar minha capacidade de desenvolver soluções utilizando essas linguagens.
 
+### Aula 10 — LPR
+
+Nesta aula continuei desenvolvendo exercícios em **C++ e C#**, utilizando estruturas de repetição e conceitos de lógica de programação.
+
+O objetivo foi praticar os conteúdos estudados e aprimorar minha capacidade de desenvolver soluções utilizando essas linguagens.
+
 ---
 
 ## 🛠️ Tecnologias utilizadas
